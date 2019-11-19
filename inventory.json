@@ -1,0 +1,65 @@
+{
+  "itemInventory": {
+    "A1": {
+      "name": "Coke",
+      "price": 1.5,
+      "currentQuantity": 4,
+      "maxQuantity": 10
+    },
+    "A2": {
+      "name": "Pepsi",
+      "price": 1.5,
+      "currentQuantity": 0,
+      "maxQuantity": 10
+    },
+
+    "B1": {
+      "name": "7up",
+      "price": 1.5,
+      "currentQuantity": 7,
+      "maxQuantity": 10
+    },
+
+    "B2": {
+      "name": "Barqs",
+      "price": 1.5,
+      "currentQuantity": 9,
+      "maxQuantity": 10
+    }
+  },
+
+  "coinInventory": {
+    "C01": {
+      "value": 2.0,
+      "currentQuantity": 100,
+      "maxQuantity": 100
+    },
+
+    "C02": {
+      "value": 1.0,
+      "currentQuantity": 100,
+      "maxQuantity": 100
+    },
+
+    "C03": {
+      "value": 0.25,
+      "currentQuantity": 100,
+      "maxQuantity": 100
+    },
+    "C04": {
+      "value": 0.1,
+      "currentQuantity": 100,
+      "maxQuantity": 100
+    },
+    "C05": {
+      "value": 0.05,
+      "currentQuantity": 100,
+      "maxQuantity": 100
+    },
+    "C06": {
+      "value": 0.01,
+      "currentQuantity": 100,
+      "maxQuantity": 100
+    }
+  }
+}
